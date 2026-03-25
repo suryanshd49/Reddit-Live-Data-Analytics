@@ -1,0 +1,6 @@
+streamlit
+pandas
+altair
+requests
+pyspark
+streamlit-autorefresh
