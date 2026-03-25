@@ -1,0 +1,4 @@
+analytics/
+reddit_data/
+__pycache__/
+*.pyc
